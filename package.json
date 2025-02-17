@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "sync-pnpm-lock": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/timtroup/sync-pnpm-lock.git"

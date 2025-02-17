@@ -1,6 +1,6 @@
 {
   "name": "sync-pnpm-lock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Syncs pnpm-lock.yaml versions into an existing package.json file, removing dynamic numbers such as with ^, keeping static versions intact.",
   "main": "index.js",
   "scripts": {

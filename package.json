@@ -1,0 +1,19 @@
+{
+  "name": "sync-pnpm-lock",
+  "version": "1.0.0",
+  "description": "Syncs pnpm-lock.yaml versions into an existing package.json file, removing dynamic numbers such as with ^, keeping static versions intact.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timtroup/sync-pnpm-lock.git"
+  },
+  "author": "Troup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timtroup/sync-pnpm-lock/issues"
+  },
+  "homepage": "https://github.com/timtroup/sync-pnpm-lock#readme"
+}
